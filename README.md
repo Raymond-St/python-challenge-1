@@ -1,5 +1,6 @@
 # Project Name
-"DU AI Bootcamp Python Challenge 1" 
+<b>"DU AI Bootcamp Python Challenge 1" </b>
+<br>
 -- Menu ordering system for embedded dictionaries on the DU Commons Food Truck.
 
 ## Features
@@ -17,7 +18,6 @@
 
 - Python 3.6+
 
-
 ## Usage
 
 - Simple Terminal interface in English only
@@ -31,6 +31,22 @@
 Run as-is, bug free.
 No configuration options, environment variables, or settings files.
 
+## Contributing
+
+To contribute to this project:
+
+1. Submit requests and issues to rstover@gmail.com
+2. Request pull requests from to rstover@gmail.com
+
+## Testing
+
+- Completed without incident 11-24-2024 - byL: to rstover@gmail.com
+
+## Contact
+
+- RStover [rstover@gmail.com](mailto:rstover@gmail.com)
+- Project Link: https://github.com/Raymond-St/python-challenge-1.git
+- Local Save location:  C:\Users\resto\AI\python-challenge-1\
 
 ## Project Structure
 '''
@@ -48,23 +64,6 @@ menu/
 ├── docs/
    └── README.md (This File)
 
-'''
-## Contributing
-
-To contribute to this project:
-
-1. Submit requests and issues to rstover@gmail.com
-2. Request pull requests from to rstover@gmail.com
-
-## Testing
-
-- Completed without incident 11-24-2024 - byL: to rstover@gmail.com
-
-## Contact
-
-- RStover [rstover@gmail.com](mailto:rstover@gmail.com)
-- Project Link: https://github.com/Raymond-St/python-challenge-1.git
-- Local Save location:  C:\Users\resto\AI\python-challenge-1\
 
 ---
 *Private - not for public distribution
