@@ -34,7 +34,6 @@ No configuration options, environment variables, or settings files.
 
 ## Project Structure
 
-```
 menu/
 │
 ├── selections/
@@ -65,6 +64,7 @@ To contribute to this project:
 
 - RStover [rstover@gmail.com](mailto:rstover@gmail.com)
 - Project Link: https://github.com/Raymond-St/python-challenge-1.git
+- Local Save location:  C:\Users\resto\AI\python-challenge-1\
 
 ---
 *Private - not for public distribution
