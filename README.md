@@ -33,7 +33,7 @@ No configuration options, environment variables, or settings files.
 
 
 ## Project Structure
-
+'''
 menu/
 │
 ├── selections/
@@ -48,7 +48,7 @@ menu/
 ├── docs/
    └── README.md (This File)
 
-
+'''
 ## Contributing
 
 To contribute to this project:
